@@ -1994,5 +1994,10 @@ contributors = [
     id: 396,
     fullname: "Shruti Mishra",
     username: "https://github.com/ShrutiMishra-2002"
+  },
+  {
+    id: 397,
+    fullname: "Atreyo Mandal",
+    username: "https://github.com/Atreyo69"
   }
 ];
